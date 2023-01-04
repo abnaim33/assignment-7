@@ -1,0 +1,22 @@
+.cart div {
+    display: flex;
+    height: auto;
+}
+
+.cart-item img {
+    width: 200px;
+    height: 100px;
+    margin-top: 1rem;
+}
+
+.cart-item div {
+    display: flex;
+    flex-direction: column;
+    margin-left: .5rem;
+}
+
+.cart h4 {
+    background: #000;
+    color: white;
+    padding: .5rem;
+}
