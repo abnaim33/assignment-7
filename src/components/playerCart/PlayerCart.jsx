@@ -28,7 +28,7 @@ const PlayerCart = ({ cart }) => {
                 ))
             }
 
-            <h4 > Total Salary TK {total}</h4>
+            <h4 > Total budget TK. {total}</h4>
 
         </div>
     )
